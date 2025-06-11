@@ -57,5 +57,4 @@ Possible future enhancements:
 - Implement multi-client support.
 - Enhance error handling and logging.
 
-## License
-Distributed under the **MIT License**. Ensure ethical usage.
+---
